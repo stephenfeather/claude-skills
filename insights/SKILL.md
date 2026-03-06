@@ -40,3 +40,6 @@ allowed-tools: [Read, Bash, Glob, Grep]
 
 #### News articles/industry reports 
 “What narrative is the writer building here, and what facts or angles might poke holes in it?”
+
+(Source:
+https://neel1701.medium.com/ditch-summarize-forever-my-go-to-claude-prompt-for-real-insights-da9947e8b840)
